@@ -13,7 +13,7 @@ Welcome to my GitHub repository dedicated to analog and integrated circuits! Thi
 In the world of electronics, analog and integrated circuits play a crucial role. This repository aims to provide a comprehensive guide to MOSFETs, BJTs, and op-amps, covering their principles, applications, and practical implementations.
 
 ## MOSFETs
-- Metal-Oxide-Semiconductor Field-Effect Transistors (MOSFETs) are a type of transistor widely used for amplification and switching.They can be used as switches under the condition that $V<V_{th}$ and as inverting amplifier when $V>V_{th}$.In the latter case **MOSFET** are commonly used as VCVS(Voltage controlled Votage sourse)
+- Metal-Oxide-Semiconductor Field-Effect Transistors (MOSFETs) are a type of transistor widely used for amplification and switching.They can be used as switches under the condition that $V<=V_{th}$ and as inverting amplifier when $V>V_{th}$.In the latter case **MOSFET** are commonly used as VCVS(Voltage controlled Votage sourse)
 ## BJTs
 - Bipolar Junction Transistors (BJTs) are another essential component in electronic circuits, offering unique characteristics.They are modelled as ICVS(Current controlled Voltage sourse)
 ## Operational Amplifiers
