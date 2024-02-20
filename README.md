@@ -26,5 +26,4 @@ Clone the repository to your local machine using the following command:
 
 
 ```bash
-git clone https://github.com/your-username/analog-integrated-circuits.git
 https://github.com/AbhishekRaje2004/Analog-and-Integrated-Circuit.git
