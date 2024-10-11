@@ -1,6 +1,6 @@
 # Analog and Integrated Circuits Solutions
 
-Welcome to my GitHub repository dedicated to analog and integrated circuits! This repository serves as a solution for understanding   MOSFETs, BJTs, and operational amplifiers (op-amps) that Ieaned during the coursework of BM2013
+Welcome to my GitHub repository for   analog and integrated circuits! This repository serves as a solution for understanding   MOSFETs, BJTs, and operational amplifiers (op-amps) that Ieaned during the coursework of BM2013
 
 
 ## Installation
